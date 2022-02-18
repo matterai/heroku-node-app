@@ -22,5 +22,8 @@
   "homepage": "https://github.com/matterai/heroku-node-app#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
