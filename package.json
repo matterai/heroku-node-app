@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/matterai/heroku-node-app/issues"
   },
-  "homepage": "https://github.com/matterai/heroku-node-app#readme"
+  "homepage": "https://github.com/matterai/heroku-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
