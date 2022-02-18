@@ -4,6 +4,7 @@
   "description": "no",
   "main": "index.js",
   "scripts": {
+    "build": "npm install",
     "test": "node index.js"
   },
   "repository": {
