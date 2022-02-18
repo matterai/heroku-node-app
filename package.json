@@ -1,0 +1,23 @@
+{
+  "name": "heroku-node-app",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matterai/heroku-node-app.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "matterai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matterai/heroku-node-app/issues"
+  },
+  "homepage": "https://github.com/matterai/heroku-node-app#readme"
+}
